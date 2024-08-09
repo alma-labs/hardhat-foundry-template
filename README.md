@@ -14,7 +14,8 @@ A repo combining Foundry and Hardhat to get the best of both worlds:
 ## 🚗 Getting Started
 
 1. Run `npm i`.
-2. Copy `.env.example` as `.env` and deploy!
+2. Copy `.env.example` as `.env`.
+3. Run `forge install foundry-rs/forge-std`
 
 ## 🤝 Helpful Repo Commands
 
